@@ -12,7 +12,7 @@ Here I will detail the list of changes made by chapter in order to run on Nengo 
 
 
 ### Chapter 3:
-
+Changed deprecated `nengo.utils.functions.piecewise` to the new `nengo.processes.Piecewise`.
 
 ### Chapter 4:
 
